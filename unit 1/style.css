@@ -1,0 +1,39 @@
+body {
+	min-width: 700px; 
+	max-width: 1000px; 
+	margin: 20px 0px 20px 40px;
+	font-family: Georgia;
+}
+
+section {
+	margin-bottom: 40px;
+}
+
+#heading {
+	float: center;
+	text-align: center;
+}
+
+p.ml {
+	font-weight:bold;
+}
+
+p.sl {
+	font-style: italic;
+	clear: both;
+}
+
+span.l {
+	float: left; 
+	text-align: left;
+}
+
+span.r {
+	float: right; 
+	text-align: right;
+}
+
+ul.bullets {
+	clear: both;
+}
+
