@@ -48,7 +48,7 @@ a:hover {
 #main-info {
 	float: left;
 	margin: 20px 0px 20px 100px;
-	min-width: 300px;
+	min-width: 400px;
 }
 
 #contact-info {
@@ -57,19 +57,20 @@ a:hover {
 }
 
 #name {
-	color: #AA4C39;
+	color: #728DA5;
 	font-size: 2em;
 	font-weight: bold;
 	margin: 0px;
 }
 
-span.bad {
+div#main-info span{
 	display: inline-block;
-	margin-right: 15px; 	
+	margin-right: 20px;
+	font-size: 1.1em;
 }
 
-span.good {
-	display: inline-block;
+div#contact-info span {
+	color: #848587;
 }
 
 span.bad:hover {
@@ -126,6 +127,10 @@ ul.end {
 	font-weight:bold;	
 }
 
+.sub-title h3 {
+	padding-left: 15px;
+}
+
 hr {
 	clear: both;
 }
@@ -142,8 +147,9 @@ hr {
 /*
 	FOOTER SECTION STYLES
 */
-
 footer {
+	padding-top: 1px;
+	padding-bottom: 5px;
 	height: 40px;
 	text-align: center;
 }
