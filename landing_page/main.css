@@ -1,0 +1,50 @@
+/* DOCUMENT WIDE STYLING */
+body {
+	margin: 0;
+	padding: 0;
+	font: 400 16px "Open Sans",serif;
+	background-color: #fff;
+	text-align: center;
+}
+
+p {
+	line-height: 38px;
+	color: #333332;
+	word-wrap: break-word;
+}
+
+a {
+	text-decoration: none;
+	color: #1B91BE;
+}
+
+a:hover {
+	text-decoration: underline 2px;
+	color: #026ed2;
+}
+
+::selection {
+	color: #fff;
+	text-shadow: none;
+	background-color: rgb(214, 199, 20);
+}
+
+/* HEADER STYLING */ 
+header {
+}
+
+#logo {
+	margin-top: 10px;
+	padding-left: 10px;
+}
+
+nav a {
+	margin-right: 15px;
+	width: 100%;
+}
+
+
+/* CONTENT STYLING */ 
+
+
+/* FOOTER STYLING */
