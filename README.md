@@ -1,4 +1,4 @@
-Thinkful-exercises
+Front-End Web Practice Projects
 ==================
 
-All my code snippets and projects from the Thinkful Frontend course.
+All of the projects dealing with practice work on Front-end skills.
